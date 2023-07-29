@@ -1,8 +1,7 @@
 ## Hi there!! 👋
 
 
-# My name is Ayushi Joshi.
-# I am a 4<sup>th</sup> year student pursuing Batchelor in Technology, Specialization in Computer Engineering at JECRC Foundation, Jaipur, Rajasthan.
+# My name is Ayushi Joshi. I am a 4<sup>th</sup> year student pursuing Batchelor in Technology, Specialization in Computer Engineering at JECRC Foundation, Jaipur, Rajasthan.
 
 - 🔭 I’m currently working on Machine Learning.
 - 🌱 I’m learning, improving, and Upgrading my Skills and Knowledge.
